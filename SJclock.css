@@ -1,0 +1,27 @@
+
+header{
+    border-bottom: 1px solid;
+    font-size: larger;
+    text-align: center;
+}
+
+body{
+    background-color: #ecf0f1;
+    text-align: center;
+}
+
+body{
+    color: #34495e;
+}
+
+footer{
+    border-top: 1px solid;
+    text-align: center;
+}
+    .form,
+    .greeting{
+        display:  none;
+    }
+    .showing{
+        display: block;
+    }
